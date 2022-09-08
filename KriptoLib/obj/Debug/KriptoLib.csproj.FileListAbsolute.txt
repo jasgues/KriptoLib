@@ -1,0 +1,6 @@
+C:\Users\Mensi\source\repos\KriptoLib\KriptoLib\bin\Debug\KriptoLib.dll
+C:\Users\Mensi\source\repos\KriptoLib\KriptoLib\bin\Debug\KriptoLib.pdb
+C:\Users\Mensi\source\repos\KriptoLib\KriptoLib\obj\Debug\KriptoLib.csproj.AssemblyReference.cache
+C:\Users\Mensi\source\repos\KriptoLib\KriptoLib\obj\Debug\KriptoLib.csproj.CoreCompileInputs.cache
+C:\Users\Mensi\source\repos\KriptoLib\KriptoLib\obj\Debug\KriptoLib.dll
+C:\Users\Mensi\source\repos\KriptoLib\KriptoLib\obj\Debug\KriptoLib.pdb
